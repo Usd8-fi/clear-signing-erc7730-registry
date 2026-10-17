@@ -389,7 +389,7 @@
       },
       "mintBatch(address[] recipients, uint256[] tokenIds, uint256[] amounts)": {
         "intent": "Admin Mint USD8 Boosters",
-        "interpolatedIntent": "Mint boosters to {recipients}",
+        "interpolatedIntent": "Mint a batch of boosters",
         "fields": [
           {
             "path": "#.recipients.[]",
